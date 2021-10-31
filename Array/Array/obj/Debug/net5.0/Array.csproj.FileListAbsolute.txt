@@ -1,0 +1,15 @@
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\Array\Array\obj\Debug\net5.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\Array\Array\obj\Debug\net5.0\Array.AssemblyInfoInputs.cache
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\Array\Array\obj\Debug\net5.0\Array.AssemblyInfo.cs
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\Array\Array\obj\Debug\net5.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\Array\Array\bin\Debug\net5.0\Array.exe
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\Array\Array\bin\Debug\net5.0\Array.deps.json
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\Array\Array\bin\Debug\net5.0\Array.runtimeconfig.json
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\Array\Array\bin\Debug\net5.0\Array.runtimeconfig.dev.json
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\Array\Array\bin\Debug\net5.0\Array.dll
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\Array\Array\bin\Debug\net5.0\ref\Array.dll
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\Array\Array\bin\Debug\net5.0\Array.pdb
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\Array\Array\obj\Debug\net5.0\Array.dll
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\Array\Array\obj\Debug\net5.0\ref\Array.dll
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\Array\Array\obj\Debug\net5.0\Array.pdb
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\Array\Array\obj\Debug\net5.0\Array.genruntimeconfig.cache
