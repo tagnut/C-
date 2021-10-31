@@ -1,0 +1,15 @@
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\Quiz_3\Quiz_3\bin\Debug\net5.0\Quiz_3.exe
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\Quiz_3\Quiz_3\bin\Debug\net5.0\Quiz_3.deps.json
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\Quiz_3\Quiz_3\bin\Debug\net5.0\Quiz_3.runtimeconfig.json
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\Quiz_3\Quiz_3\bin\Debug\net5.0\Quiz_3.runtimeconfig.dev.json
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\Quiz_3\Quiz_3\bin\Debug\net5.0\Quiz_3.dll
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\Quiz_3\Quiz_3\bin\Debug\net5.0\ref\Quiz_3.dll
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\Quiz_3\Quiz_3\bin\Debug\net5.0\Quiz_3.pdb
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\Quiz_3\Quiz_3\obj\Debug\net5.0\Quiz_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\Quiz_3\Quiz_3\obj\Debug\net5.0\Quiz_3.AssemblyInfoInputs.cache
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\Quiz_3\Quiz_3\obj\Debug\net5.0\Quiz_3.AssemblyInfo.cs
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\Quiz_3\Quiz_3\obj\Debug\net5.0\Quiz_3.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\Quiz_3\Quiz_3\obj\Debug\net5.0\Quiz_3.dll
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\Quiz_3\Quiz_3\obj\Debug\net5.0\ref\Quiz_3.dll
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\Quiz_3\Quiz_3\obj\Debug\net5.0\Quiz_3.pdb
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\Quiz_3\Quiz_3\obj\Debug\net5.0\Quiz_3.genruntimeconfig.cache
