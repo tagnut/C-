@@ -1,0 +1,15 @@
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\20211107_4\20211107_4\bin\Debug\net5.0\20211107_4.exe
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\20211107_4\20211107_4\bin\Debug\net5.0\20211107_4.deps.json
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\20211107_4\20211107_4\bin\Debug\net5.0\20211107_4.runtimeconfig.json
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\20211107_4\20211107_4\bin\Debug\net5.0\20211107_4.runtimeconfig.dev.json
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\20211107_4\20211107_4\bin\Debug\net5.0\20211107_4.dll
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\20211107_4\20211107_4\bin\Debug\net5.0\ref\20211107_4.dll
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\20211107_4\20211107_4\bin\Debug\net5.0\20211107_4.pdb
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\20211107_4\20211107_4\obj\Debug\net5.0\20211107_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\20211107_4\20211107_4\obj\Debug\net5.0\20211107_4.AssemblyInfoInputs.cache
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\20211107_4\20211107_4\obj\Debug\net5.0\20211107_4.AssemblyInfo.cs
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\20211107_4\20211107_4\obj\Debug\net5.0\20211107_4.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\20211107_4\20211107_4\obj\Debug\net5.0\20211107_4.dll
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\20211107_4\20211107_4\obj\Debug\net5.0\ref\20211107_4.dll
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\20211107_4\20211107_4\obj\Debug\net5.0\20211107_4.pdb
+C:\Users\Samuel Chung\Desktop\컴퓨터프로그래밍\20211107_4\20211107_4\obj\Debug\net5.0\20211107_4.genruntimeconfig.cache
